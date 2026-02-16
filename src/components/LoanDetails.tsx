@@ -2,7 +2,7 @@ import { ExternalLink } from "lucide-react";
 
 const details = [
   { label: "APY", value: "10 %" },
-  { label: "Cool Off Period", value: "2 business days" },
+  { label: "Cool Off Period", value: "10 business days" },
   { label: "Next Payout Date", value: "-" },
   { label: "Earnings paid to", value: "Go Account", isLink: true },
 ];
